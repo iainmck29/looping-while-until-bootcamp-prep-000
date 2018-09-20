@@ -5,5 +5,3 @@ def using_while
     puts Windardium Leviosa
   #your code here
 end
-
-
